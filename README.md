@@ -5,33 +5,37 @@
 <p><a href="https://test.webdeveloperaleks.com/build/">coffee shop website using react</a></p>
 
 ## Completed works: 
-  <ul>
-  <li><a href="https://webdeveloperaleks.com/portfolio/runSmart/index.html"><img src="https://webdeveloperaleks.com/portfolio/runSmart/img/promo/logo.png" alt="RunSmart"></a>
-	<div>
-	<h3>📝 Description</h3>
-	<p>The RunSmart website was developed as a project for a front-end development course, where I utilized my knowledge of HTML, CSS, and JavaScript. I manually coded the HTML using semantic tags, and used Sass for styling. The layout of the website was created using both flexbox and grid positioning techniques.</p>
-	<p>For the JavaScript implementation, I practiced using both jQuery and native JS. I utilized several libraries such as Slick.js for carousels, Cleave.js for input validation, Wow.js for triggering animations, and Animated.css for animating elements.</p>
-	<p>I also manually created the functionality for the tabs elements and added reversed animations for the cards. One of the notable features of the website is the integration of Google Maps, where I added real maps with all the functionalities provided by Google Maps.</p></div>
-	<div>
-	<h3>💪 Benefits </h3>
-	<p>This website can be used as a small online shop, providing users with the ability to view information about goods and access contact details for the seller. With its visually appealing design and user-friendly interface, the website can showcase products, provide details such as prices and product descriptions, and allow users to easily get in touch with the seller. Additionally, the website can be customized to include features such as a shopping cart and payment processing, making it a complete e-commerce solution for small businesses.</p>
-	</div>
+<ul>
 	<li>
-	<li><a href="https://webdeveloperaleks.com/portfolio/Fresh_food/index.html"><img src="./healthy.png" alt="HEALTHY SWITCHER"></a>
-	<div>
-	<h3>📝 Description</h3>
-	<p>I created the HEALTHY SWITCHER website as a part of my practice with HTML, CSS, and JavaScript. Starting with a Figma template, I coded the website manually, implementing responsive design using flexbox and grid layout. During this project, I gained experience creating animations and several Swiper.js carousels, as well as developing rating systems and interactive logos. Additionally, I incorporated various hover effects throughout the site, including a star rating feature.</p></div>
-	<div>
-	<h3>💪 The benefits of the HEALTHY SWITCHER website include: </h3>
-	<ul>
-<li>Eye-catching and engaging design of headings</li>
-<li>Multiple Swiper.js carousels in various sections and orientations</li>
-<li>Hidden top navigation menu that appears upon scrolling</li>
-<li>Unique scroll bar design</li>
-	</ul>
-	</div>
+		<a href="https://webdeveloperaleks.com/portfolio/runSmart/index.html"><img src="https://webdeveloperaleks.com/portfolio/runSmart/img/promo/logo.png" alt="RunSmart"></a>
+		<div>
+			<h3>📝 Description</h3>
+			<p>The RunSmart website was developed as a project for a front-end development course, where I utilized my knowledge of HTML, CSS, and JavaScript. I manually coded the HTML using semantic tags, and used Sass for styling. The layout of the website was created using both flexbox and grid positioning techniques.</p>
+			<p>For the JavaScript implementation, I practiced using both jQuery and native JS. I utilized several libraries such as Slick.js for carousels, Cleave.js for input validation, Wow.js for triggering animations, and Animated.css for animating elements.</p>
+			<p>I also manually created the functionality for the tabs elements and added reversed animations for the cards. One of the notable features of the website is the integration of Google Maps, where I added real maps with all the functionalities provided by Google Maps.</p>
+		</div>
+		<div>
+			<h3>💪 Benefits </h3>
+			<p>This website can be used as a small online shop, providing users with the ability to view information about goods and access contact details for the seller. With its visually appealing design and user-friendly interface, the website can showcase products, provide details such as prices and product descriptions, and allow users to easily get in touch with the seller. Additionally, the website can be customized to include features such as a shopping cart and payment processing, making it a complete e-commerce solution for small businesses.</p>
+		</div>
 	</li>
-	</ul>
+	<li>
+		<a href="https://webdeveloperaleks.com/portfolio/Fresh_food/index.html"><img src="./healthy.png" alt="HEALTHY SWITCHER"></a>
+		<div>
+			<h3>📝 Description</h3>
+			<p>I created the HEALTHY SWITCHER website as a part of my practice with HTML, CSS, and JavaScript. Starting with a Figma template, I coded the website manually, implementing responsive design using flexbox and grid layout. During this project, I gained experience creating animations and several Swiper.js carousels, as well as developing rating systems and interactive logos. Additionally, I incorporated various hover effects throughout the site, including a star rating feature.</p>
+		</div>
+		<div>
+			<h3>💪 The benefits of the HEALTHY SWITCHER website include: </h3>
+			<ul>
+				<li>Eye-catching and engaging design of headings</li>
+				<li>Multiple Swiper.js carousels in various sections and orientations</li>
+				<li>Hidden top navigation menu that appears upon scrolling</li>
+				<li>Unique scroll bar design</li>
+			</ul>
+		</div>
+	</li>
+</ul>
 
 ## 🌱 I am currently expanding my skill set by learning
 <p>React.js and completing several other online courses</p>
