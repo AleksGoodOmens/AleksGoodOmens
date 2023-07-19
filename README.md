@@ -9,6 +9,11 @@ Some examples how I did Inviter app, currency convector app, dynamic slider and 
 ## Completed works: 
 <ul>
 	<li>
+		<a href="https://github.com/AleksGoodOmens/RepairDesignProject">Repair Design Project</a>
+		Rebuild old my project using react. Html, CSS, JS
+		Here you can found modal windows, forms, sliders and more 
+	</li>
+	<li>
 		<a href="https://webdeveloperaleks.com/portfolio/runSmart/index.html"><img src="https://webdeveloperaleks.com/portfolio/runSmart/img/promo/logo.png" alt="RunSmart"></a>
 		<div>
 			<h3>📝 Description</h3>
