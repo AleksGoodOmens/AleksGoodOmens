@@ -40,7 +40,6 @@
 ## 🌱 I am currently expanding my skill set by learning
 <p>React.js and completing several other online courses</p>
 
-## ⚡ Fun fact: Why did I quit last job? I didn't get arrays.
 
 some times coffe is to expensive for me =) <a href="https://www.buymeacoffee.com/agsfinksn" >donate</a> 
 
