@@ -8,6 +8,14 @@ Some examples how I did Inviter app, currency convector app, dynamic slider and 
 
 ## Completed works: 
 <ul>
+	<li> 
+		<a href="https://github.com/AleksGoodOmens/CoffeShoppReactApp">Coffe Shop React App</a>
+		<h3>📝 Description</h3>
+		<p>Landing page for online coffe shop</p>
+		<ul>
+			<li>you can change language</li>
+			<li>sort coffee by name or country of origin</li>
+		</ul>
 	<li>
 		<a href="https://github.com/AleksGoodOmens/RepairDesignProject">Repair Design Project</a>
 		Rebuild old my project using react. Html, CSS, JS
