@@ -50,7 +50,7 @@ Some examples how I did Inviter app, currency convector app, dynamic slider and 
 				<li>Multiple Swiper.js carousels in various sections and orientations</li>
 				<li>Hidden top navigation menu that appears upon scrolling</li>
 				<li>Unique scroll bar design</li>
-				<li>⚠️WARNING⚠️</li>
+				# ⚠️WARNING⚠️
 				<p>The DSi Browser AlexsGoodOmens will be not working,</p>
 			</ul>
 		</div>
