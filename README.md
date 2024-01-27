@@ -1,8 +1,8 @@
 # Hi 👋, I'm Aleks Gomeniuk
 <p>I am a committed frontend developer from London who has self-taught and applied various frontend technologies. With knowledge of several languages, I am a team player who is always ready to collaborate. As a motivated developer, I enjoy acquiring new skills and never giving up on challenges. Would you be interested in working together?</p>
 
-## 🔭 I’m currently study at: 
-<a href="https://northcoders.com/">Northcoders/</a>
+## 🔭 I’m currently learning: 
+js / react / backend
 
 ## Completed works: 
 <ul>
