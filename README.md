@@ -1,88 +1,37 @@
 # Hi 👋, I'm Aleks Gomeniuk
-<p>I am a committed frontend developer from London who has self-taught and applied various frontend technologies. With knowledge of several languages, I am a team player who is always ready to collaborate. As a motivated developer, I enjoy acquiring new skills and never giving up on challenges. Would you be interested in working together?</p>
+<p>I am a passionate frontend developer based in London, with a strong foundation in modern web technologies including React, JavaScript, TypeScript, and Redux. Having completed multiple advanced courses, I’ve gained hands-on experience in building responsive, dynamic web applications.</p> 
+	<p></p>I’m also proficient in design tools like Figma and Photoshop, enabling me to bridge the gap between design and development seamlessly. As a self-taught and continuously learning developer, I thrive in collaborative environments, always eager to embrace new challenges and sharpen my skills. Would you be interested in collaborating on your next project?</p>
 
-# My skills
-
-# My Skills
+## My Skills
 
 | Category       | Technology                                                                                                                                          | Level        | Description                                      |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------|
-| **Design**     | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Avocode](https://img.shields.io/badge/Avocode-1D1D1D?style=for-the-badge&logo=avocode&logoColor=white) | Expert       | Tools for design and prototyping                 |
+| **Design**     | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Avocode](https://img.shields.io/badge/Avocode-1D1D1D?style=for-the-badge&logo=avocode&logoColor=white) | Proficient       | Tools for design and prototyping                 |
 | **Styling**    | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white) | Proficient    | Used for styling web applications                  |
 | **Coding**     | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | Proficient    | For frontend development                          |
 | **Testing**    | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) | Proficient    | For testing JavaScript applications                |
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | Proficient    | Comfortable using both Linux and Windows OS      |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Proficient    | For version control and collaboration              |
 
+## Completed Online Courses
+
+| Course Name                                                | Institution/Platform      | Certificate Link                              | Completion Date  | Description                                   |
+|-----------------------------------------------------------|---------------------------|-----------------------------------------------|------------------|-----------------------------------------------|
+| Web Developer - Full Course (Frontend Developer)           | Ivan Petrichenko          | ![pwd](https://github.com/user-attachments/assets/f9b64e77-ae6a-4917-85d2-13595f75b861)  | December 26, 2022 | Full frontend development course. |
+| JavaScript - Full Course (Advanced Level)                  | Ivan Petrichenko          | ![pjs](https://github.com/user-attachments/assets/ba163a31-3fa3-4fab-a95f-4d0ed4de9662) | February 24, 2023 | Advanced JavaScript concepts and techniques.  |
+| React - Full Course (including Redux & Redux Toolkit)     | Bogdan Stashchuk         | ![js](https://github.com/user-attachments/assets/2e56b3a1-ab83-448b-86fc-971022648b8c) | May 08, 2023     | Comprehensive course covering React and Redux. |
+| React and Redux Toolkit                                    | Purple School             | ![alPurpleSchool](https://github.com/user-attachments/assets/62f51717-a2dd-40cd-9c7d-a59afff7cdca) | June 22, 2024    | In-depth training on React and Redux Toolkit. |
+| REACT 2024 Q3 - Full React Course                          | The Rolling Scopes School |   ![yrytyow8_page-0001](https://github.com/user-attachments/assets/c569c8b3-dbf9-48db-8bf0-3af2b4313e32) | September 25, 2024 | Complete React course focusing on Q3 2024 updates. |
 
 
-## 🔭 I’m currently learning: 
-js /react / nextjs
+## 🔭 I’m currently learning and looking for a job: 
+js / react / nextjs 
 
 ## Completed works: 
 <ul>
-
- <li>
-	 <a href="https://github.com/AleksGoodOmens/Udemy_JS_React">Small react projects</a>
-
-Some examples how I did Inviter app, currency convector app, dynamic slider and few more
- </li>
-	<li> 
-		<a href="https://github.com/AleksGoodOmens/CoffeShoppReactApp">Coffe Shop React App</a>
-		<h3>📝 Description</h3>
-		<p>Landing page for online coffe shop</p>
-		<ul>
-			<li>you can change language</li>
-			<li>sort coffee by name or country of origin</li>
-		</ul>
-	</li>
-	<br>
-	<li>
-		<a href="https://github.com/AleksGoodOmens/RepairDesignProject">Repair Design Project</a>
-		Rebuild old my project using react. Html, CSS, JS
-		Here you can found modal windows, forms, sliders and more 
-	</li>
-	<br>
-	<li>
-		<a href="https://webdeveloperaleks.com/portfolio/runSmart/index.html"><img src="https://webdeveloperaleks.com/portfolio/runSmart/img/promo/logo.png" alt="RunSmart"></a>
-		<div>
-			<h3>📝 Description</h3>
-			<p>The RunSmart website was developed as a project for a front-end development course, where I utilized my knowledge of HTML, CSS, and JavaScript. I manually coded the HTML using semantic tags, and used Sass for styling. The layout of the website was created using both flexbox and grid positioning techniques.</p>
-			<p>For the JavaScript implementation, I practiced using both jQuery and native JS. I utilized several libraries such as Slick.js for carousels, Cleave.js for input validation, Wow.js for triggering animations, and Animated.css for animating elements.</p>
-			<p>I also manually created the functionality for the tabs elements and added reversed animations for the cards. One of the notable features of the website is the integration of Google Maps, where I added real maps with all the functionalities provided by Google Maps.</p>
-		</div>
-		<div>
-			<h3>💪 Benefits </h3>
-			<p>This website can be used as a small online shop, providing users with the ability to view information about goods and access contact details for the seller. With its visually appealing design and user-friendly interface, the website can showcase products, provide details such as prices and product descriptions, and allow users to easily get in touch with the seller. Additionally, the website can be customized to include features such as a shopping cart and payment processing, making it a complete e-commerce solution for small businesses.</p>
-		</div>
-	</li>
-	<li>
-		<a href="https://webdeveloperaleks.com/portfolio/Fresh_food/index.html"><img src="./healthy.png" alt="HEALTHY SWITCHER"></a>
-		<div>
-			<h3>📝 Description</h3>
-			<p>I created the HEALTHY SWITCHER website as a part of my practice with HTML, CSS, and JavaScript. Starting with a Figma template, I coded the website manually, implementing responsive design using flexbox and grid layout. During this project, I gained experience creating animations and several Swiper.js carousels, as well as developing rating systems and interactive logos. Additionally, I incorporated various hover effects throughout the site, including a star rating feature.</p>
-		</div>
-		<div>
-			<h3>💪 The benefits of the HEALTHY SWITCHER website include: </h3>
-			<ul>
-				<li>Eye-catching and engaging design of headings</li>
-				<li>Multiple Swiper.js carousels in various sections and orientations</li>
-				<li>Hidden top navigation menu that appears upon scrolling</li>
-				<li>Unique scroll bar design</li>
-				<div>
-    <h3>⚠️WARNING⚠️</h3>
-			<p>The DSi Browser AlexsGoodOmens will be not working,</p>
-		</div>
-	</li>
-	<li>
-			</ul>
-		</div>
-	</li>
+	<li>Pleasse check my latest commits! I will update stis section soon...</li>
 </ul>
 
-## 🌱 I am currently expanding my skill set by learning
-<p>React.js and completing several other online courses</p>
+Sometimes, coffee can be a bit too expensive for me. If you'd like to support my work, feel free to donate here: <a href="https://www.buymeacoffee.com/agsfinksn">Buy me a coffee</a>. :)
 
-
-some times coffe is to expensive for me =) <a href="https://www.buymeacoffee.com/agsfinksn" >donate</a> 
 
