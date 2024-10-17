@@ -1,6 +1,14 @@
 # Hi 👋, I'm Aleks Gomeniuk
 <p>I am a committed frontend developer from London who has self-taught and applied various frontend technologies. With knowledge of several languages, I am a team player who is always ready to collaborate. As a motivated developer, I enjoy acquiring new skills and never giving up on challenges. Would you be interested in working together?</p>
 
+## My Skills 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
 ## 🔭 I’m currently learning: 
 js /react / nextjs
 
