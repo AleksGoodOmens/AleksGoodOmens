@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aleks Nice to meet you!
+# Hi 👋, I'm Aleks, Nice to meet you!
 <p>I am a passionate frontend developer based in London, with a strong foundation in modern web technologies including React, JavaScript, TypeScript, and Redux. Having completed multiple advanced courses, I’ve gained hands-on experience in building responsive, dynamic web applications.</p> 
 	<p></p>I’m also proficient in design tools like Figma and Photoshop, enabling me to bridge the gap between design and development seamlessly. As a self-taught and continuously learning developer, I thrive in collaborative environments, always eager to embrace new challenges and sharpen my skills. Would you be interested in collaborating on your next project?</p>
 
