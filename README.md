@@ -29,7 +29,7 @@ js / react / nextjs
 
 ## Completed works: 
 <ul>
-	<li>Pleasse check my latest commits! I will update stis section soon...</li>
+	<li>Pleasse check my latest commits! I will update this section soon...</li>
 </ul>
 
 Sometimes, coffee can be a bit too expensive for me. If you'd like to support my work, feel free to donate here: <a href="https://www.buymeacoffee.com/agsfinksn">Buy me a coffee</a>. :)
